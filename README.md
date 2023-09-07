@@ -1,2 +1,2 @@
 # python-ascii-graphics
-![image]("images/smiley_face.jpg")
+![image1](images/smiley_face.jpg)
